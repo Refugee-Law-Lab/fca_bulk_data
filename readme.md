@@ -1,5 +1,5 @@
 
-### Rep for sharing, loading, and analyzing Federal Court of Appeal (Canada) cases programmatically decisions
+### Repo for sharing, loading, and analyzing Federal Court of Appeal (Canada) cases programmatically decisions
 
 Sean Rehaag
 
