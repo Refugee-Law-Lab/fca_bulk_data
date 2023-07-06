@@ -9,7 +9,7 @@ Dataset & Code to be cited as:
 
     Sean Rehaag, "Federal Court of Appeal Bulk Decisions Dataset" (2023), online: Refugee Law Laboratory <https://refugeelab.ca/bulk-data/fca/>.
 
-To load data, see load_and_analyze_fca_cases.ipynb
+To load data, see [load_and_analyze_fca_cases.ipynb](https://github.com/Refugee-Law-Lab/fca_bulk_data/blob/master/load_and_analyze_fca_cases.ipynb)
 
 Notes:
 
