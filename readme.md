@@ -1,5 +1,3 @@
----
-
 # **DEPRECATION NOTICE**  
 
 ⚠️ **This project is deprecated and is no longer being maintained or 
